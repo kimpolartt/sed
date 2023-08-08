@@ -200,10 +200,10 @@ let tags = {
       text: text,
       contextInfo: {
       externalAdReply: {
-      title: `Yaemiko - MD`,
-      body: `© Created by Vynaa`,
+      title: `Yeroze - MD`,
+      body: `© Created by Kimpol`,
       thumbnailUrl: fotonya,
-      sourceUrl: `https://shoplinks.to/vyna-store`,
+      sourceUrl: `https://chat.whatsapp.com/BEc1we1qUCK2XJowOutY5O`,
       mediaType: 1,
       renderLargerThumbnail: true
       }}})
